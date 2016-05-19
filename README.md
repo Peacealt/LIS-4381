@@ -3,24 +3,24 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4381 - Mobile Web Application Development
 
-## Your Name
+## Juan Abreut
 
-### Assignment # Requirements:
+### Assignment 1 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. To show version Control Mastery
+2. Show Developmental Installation Success
+3. Chapter questions
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of AMPPS Installation My PHP installation
+* Screenshot of running java Hello. 
+* Screenshot of running Android Studio
+* Bitbucket tutorials
 
 > This is a blockquote.
 > 
@@ -28,13 +28,13 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init - Initializes repo
+2. git status - Checks current status of repo
+3. git add - Adds current changes to que for a push
+4. git commit - Commits change of local repo
+5. git push - Pushes changes to the server
+6. git pull - pulls changes from online repo
+7. git branch -lists all branches
 
 #### Assignment Screenshots:
 
@@ -54,7 +54,7 @@
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/Peaceall/bitbucketstationlocations/ "Bitbucket Station Locations")
 
 *Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 My Team Quotes Tutorial Link](https://bitbucket.org/Peaceall/myteamquotes/ "My Team Quotes Tutorial")
