@@ -22,9 +22,9 @@
 * Screenshot of running Android Studio
 * Bitbucket tutorials
 
-> This is a blockquote.
+> This is my blockquote.
 > 
-> This is the second paragraph in the blockquote.
+> This is the second paragraph in the blockquote as an example.
 >
 > #### Git commands w/short descriptions:
 
