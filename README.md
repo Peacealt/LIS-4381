@@ -2,6 +2,6 @@
 
 ## Juan Abreut
 
-### Assignment 1 Requirements:
+### Assignment:
 
-{A1 README.md}(a1/README.md "my A1 README.mdfile")
+{A1 README.md}(https://bitbucket.org/Peaceall/a1 "my A1 README.mdfile")
