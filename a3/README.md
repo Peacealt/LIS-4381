@@ -21,9 +21,6 @@
 * links to a3.sql and a3.mwb
 
 
-> This is my blockquote.
-> 
-> This is the second paragraph in the blockquote as an example.
 
 
 #### Assignment Screenshots/Links:
