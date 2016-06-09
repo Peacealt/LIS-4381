@@ -12,6 +12,12 @@ Note: the Assignments are linked twice the first being a link to a separate repo
 
 [In this repo: A2 README.md](a2)
 
+[In this repo: A3 README.md](a3)
+
+[In this repo: A3 a3.mwb](a3.mwb)
+
+[In this repo: A3 a3.sql](a3.sql)
+
 [BitBucketStationLocations Tutorial](https://bitbucket.org/Peaceall/bitbucketstationlocations)
  
 [Myteamquotes Tutorial](https://bitbucket.org/Peaceall/myteamquotes)
