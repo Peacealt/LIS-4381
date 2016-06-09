@@ -8,13 +8,13 @@ Note: the Assignments are linked twice the first being a link to a separate repo
 
  
 [In this repo: A1 README.md](a1)
-    Install AMPPS
-    Install JDK
-    Install Android Studio and Create My First App
-    Provide screenshots of installations
-    Create Bitbucket repo
-    Complete Bitbucket tutorials (see bottom)
-    Provide Git command descriptions
+*     Install AMPPS
+*     Install JDK
+*     Install Android Studio and Create My First App
+*     Provide screenshots of installations
+*     Create Bitbucket repo
+*     Complete Bitbucket tutorials (see bottom)
+*Provide Git command descriptions
 
 [In this repo: A2 README.md](a2)
     Create Healthy Recipes Application
