@@ -32,9 +32,9 @@
 
 ![assignment three screenshot](img/a3.png)
 
-*Link to a3.mwb
+*Link to a3.mwb*:
 ![assignment 3 mwb file link](a3.mwb)
 
-*Link to a3.sql
+*Link to a3.sql*:
 ![assignment 3 sql file link](a3.sql)
 
