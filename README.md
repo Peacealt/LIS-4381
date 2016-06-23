@@ -33,7 +33,14 @@
     * Provide screenshot of completed ERD
 
     * Provide DB resource links
+	
+* [In this repo: A3 README.md](p1)
 
+    * Create Business Card Application
+
+    * Add custom logo to application
+
+    * Implement border and text shadow 
 * [BitBucketStationLocations Tutorial](https://bitbucket.org/Peaceall/bitbucketstationlocations)
  
 * [Myteamquotes Tutorial](https://bitbucket.org/Peaceall/myteamquotes)

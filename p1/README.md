@@ -7,20 +7,21 @@
 
 ## Juan Abreut
 
-### Assignment 1 Requirements:
+### Project 1 Requirements:
 
 *Sub-Heading:*
 
-1. To show version Control Mastery
-2. Show Developmental Installation Success
+1. To show Android Studio Competency
+2. Show Development Exportation
 3. Chapter questions
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation My PHP installation
-* Screenshot of running java Hello. 
-* Screenshot of running Android Studio
-* Bitbucket tutorials
+* Create Business Card Application
+
+* Add custom logo to application
+
+* Implement border and text shadow 
 
 > This is my blockquote.
 > 
@@ -38,23 +39,11 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*First Application Screen:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![AMPPS Installation Screenshot](img/P1_1.png)
 
-*Screenshot of running java Hello*:
+*Second Application Screen:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/P1_2.png)
 
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/Peaceall/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/Peaceall/myteamquotes/ "My Team Quotes Tutorial")
