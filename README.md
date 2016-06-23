@@ -34,7 +34,7 @@
 
     * Provide DB resource links
 	
-* [In this repo: A3 README.md](p1)
+* [In this repo: P1 README.md](p1)
 
     * Create Business Card Application
 
