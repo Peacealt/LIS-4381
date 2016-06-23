@@ -41,6 +41,7 @@
     * Add custom logo to application
 
     * Implement border and text shadow 
+	
 * [BitBucketStationLocations Tutorial](https://bitbucket.org/Peaceall/bitbucketstationlocations)
  
 * [Myteamquotes Tutorial](https://bitbucket.org/Peaceall/myteamquotes)
