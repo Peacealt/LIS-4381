@@ -81,7 +81,7 @@ h2
 	<div
       id="myCarousel"
 		class="carousel"
-		data-interval="1000"
+		data-interval="2000"
 		data-pause="hover"
 		data-wrap="true"
 		data-keyboard="true"			
