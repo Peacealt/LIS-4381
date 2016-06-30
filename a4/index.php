@@ -123,7 +123,7 @@
 								</div>
 								
 								<div class="form-group">
-										<div class="col-sm-9 col-sm-offset-3">
+										<div class="col-sm-5 col-sm-offset-3">
 												<button type="submit" class="btn btn-primary" name="signup" value="Sign up">Submit</button>
 										</div>
 								</div>
