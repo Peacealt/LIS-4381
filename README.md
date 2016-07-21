@@ -42,6 +42,22 @@
 
     * Implement border and text shadow 
 	
+* [In this repo: A4 README.md](a4)
+
+    * Create Client Side Validating Form
+
+    * Provide screenshot of form
+
+    * Show Carousel 
+	
+* [In this repo: A5 README.md](a5)
+
+    * Create Server Side Validating form
+
+    * Link Database to php files
+
+    * Use Regular Expressions for validation
+	
 * [BitBucketStationLocations Tutorial](https://bitbucket.org/Peaceall/bitbucketstationlocations)
  
 * [Myteamquotes Tutorial](https://bitbucket.org/Peaceall/myteamquotes)
