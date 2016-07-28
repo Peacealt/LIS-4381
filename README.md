@@ -57,6 +57,15 @@
     * Link Database to php files
 
     * Use Regular Expressions for validation
+
+* [In this repo: P2 README.md](p2)
+
+    * Finish Server Side Validating form
+
+    * Link RSS files
+
+    * Use Regular Expressions for validation
+	
 	
 * [BitBucketStationLocations Tutorial](https://bitbucket.org/Peaceall/bitbucketstationlocations)
  
