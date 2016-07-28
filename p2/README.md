@@ -7,13 +7,13 @@
 
 ## Juan Abreut
 
-### Assignment 5 Requirements:
+### Project 2 Requirements:
 
 *Sub-Heading:*
 
 1. Show PHP and MySQL mastery
 2. Show Server Side validation mastery
-3. Successfully deploy to BitBucket with localhost link
+3. Successfully Implement basic RSS feed through php
 
 #### README.md file should include the following items:
 
@@ -33,12 +33,24 @@
 
 #### Assignment Screenshots:
 
-*First Application Screen:
+*First Screenshot:
 
-![index.php](img/a5_1.png)
+![Index.php](img/p2_1.png)
 
 *Second Screenshot:
 
-![Error](img/a5_2.png)
+![edit_petstore.php](img/p2_2.png)
+
+*Third Screenshot:
+
+![edit_petstore_process.php error](img/p2_3.png)
+
+*Fourth Screenshot:
+
+![Carousel.php](img/p2_4.png)
+
+*Fifth Screenshot:
+
+![rssfeed.php](img/p2_5.png)
 
 [Local Host](http://localhost/repos/LIS4381)
